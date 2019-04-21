@@ -5,5 +5,5 @@ while i < array.length
 array2 << yield(array[i])
 i = i + 1
 end
-array
+array2
 end
